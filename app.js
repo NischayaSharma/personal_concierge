@@ -12,6 +12,8 @@ const PORT = 3000 || process.env.PORT;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const OPENAI_ORGANIZATION = process.env.OPENAI_ORGANIZATION;
 const TRIPADVISOR_API_KEY = process.env.TRIPADVISOR_API_KEY;
+const USERNAME = process.env.USERNAME;
+const PASSWORD = process.env.PASSWORD;
 const openai = new OpenAI({
 	apiKey: OPENAI_API_KEY,
 	organization: OPENAI_ORGANIZATION,
@@ -162,6 +164,23 @@ async function createAssistant() {
 	return assistant;
 }
 
+const authenticate = (req, res, next) => {
+	const authHeader = req.headers.authorization;
+	if (!authHeader) {
+		return res.status(401).json({ error: 'Unauthorized' });
+	}
+
+	const encodedCredentials = authHeader.split(' ')[1];
+	const decodedCredentials = Buffer.from(encodedCredentials, 'base64').toString('utf-8');
+	const [receivedUsername, receivedPassword] = decodedCredentials.split(':');
+
+	if (receivedUsername !== USERNAME || receivedPassword !== PASSWORD) {
+		return res.status(401).json({ error: 'Unauthorized' });
+	}
+
+	next();
+};
+
 async function serverInit() {
 
 	var assistant = await createAssistant();
@@ -170,7 +189,7 @@ async function serverInit() {
 	app.use(express.json());
 	app.use(express.urlencoded({ extended: true }));
 
-	app.post('/message', async (req, res) => {
+	app.post('/message', authenticate,  async (req, res) => {
 		const body = req.body;
 		var thread_id = '';
 		var message;
