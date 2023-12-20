@@ -1,0 +1,301 @@
+hotel_id,hotel_name,city,room_type,price_per_night
+6,Comfort Inn,Kolkata,Standard,2469
+6,Comfort Inn,Kolkata,Deluxe,4871
+6,Comfort Inn,Kolkata,Suite,5393
+9,Serene Suites,Bengaluru,Standard,2795
+9,Serene Suites,Bengaluru,Deluxe,3169
+9,Serene Suites,Bengaluru,Suite,5710
+9,Serene Suites,Pune,Standard,2071
+9,Serene Suites,Pune,Deluxe,4806
+9,Serene Suites,Pune,Suite,5029
+3,Royal Stay,Bengaluru,Standard,2701
+3,Royal Stay,Bengaluru,Deluxe,3483
+3,Royal Stay,Bengaluru,Suite,5422
+6,Comfort Inn,Hyderabad,Standard,2384
+6,Comfort Inn,Hyderabad,Deluxe,3711
+6,Comfort Inn,Hyderabad,Suite,6021
+9,Serene Suites,Goa,Standard,2114
+9,Serene Suites,Goa,Deluxe,3875
+9,Serene Suites,Goa,Suite,5295
+4,Urban Retreat,Kolkata,Standard,2184
+4,Urban Retreat,Kolkata,Deluxe,3074
+4,Urban Retreat,Kolkata,Suite,5746
+6,Comfort Inn,Mumbai,Standard,2548
+6,Comfort Inn,Mumbai,Deluxe,4407
+6,Comfort Inn,Mumbai,Suite,5395
+8,City Center Hotel,Delhi,Standard,1956
+8,City Center Hotel,Delhi,Deluxe,3285
+8,City Center Hotel,Delhi,Suite,6902
+9,Serene Suites,Agra,Standard,2009
+9,Serene Suites,Agra,Deluxe,4255
+9,Serene Suites,Agra,Suite,7278
+3,Royal Stay,Bengaluru,Standard,2216
+3,Royal Stay,Bengaluru,Deluxe,4124
+3,Royal Stay,Bengaluru,Suite,5912
+8,City Center Hotel,Vadodara,Standard,2866
+8,City Center Hotel,Vadodara,Deluxe,3945
+8,City Center Hotel,Vadodara,Suite,6997
+5,Mountain Retreat,Agra,Standard,1701
+5,Mountain Retreat,Agra,Deluxe,4613
+5,Mountain Retreat,Agra,Suite,7401
+5,Mountain Retreat,Jaipur,Standard,2708
+5,Mountain Retreat,Jaipur,Deluxe,3661
+5,Mountain Retreat,Jaipur,Suite,6585
+5,Mountain Retreat,Goa,Standard,1556
+5,Mountain Retreat,Goa,Deluxe,4429
+5,Mountain Retreat,Goa,Suite,7053
+1,Hotel Sunshine,Mumbai,Standard,2066
+1,Hotel Sunshine,Mumbai,Deluxe,4444
+1,Hotel Sunshine,Mumbai,Suite,5732
+7,Grand Palace,Mumbai,Standard,2087
+7,Grand Palace,Mumbai,Deluxe,4981
+7,Grand Palace,Mumbai,Suite,6298
+2,Ocean View Resort,Lucknow,Standard,2560
+2,Ocean View Resort,Lucknow,Deluxe,3932
+2,Ocean View Resort,Lucknow,Suite,7184
+5,Mountain Retreat,Lucknow,Standard,2043
+5,Mountain Retreat,Lucknow,Deluxe,4915
+5,Mountain Retreat,Lucknow,Suite,5611
+8,City Center Hotel,Jaipur,Standard,1572
+8,City Center Hotel,Jaipur,Deluxe,3048
+8,City Center Hotel,Jaipur,Suite,5035
+3,Royal Stay,Bengaluru,Standard,1552
+3,Royal Stay,Bengaluru,Deluxe,4931
+3,Royal Stay,Bengaluru,Suite,5731
+2,Ocean View Resort,Vadodara,Standard,1873
+2,Ocean View Resort,Vadodara,Deluxe,3064
+2,Ocean View Resort,Vadodara,Suite,5172
+6,Comfort Inn,Agra,Standard,2259
+6,Comfort Inn,Agra,Deluxe,4077
+6,Comfort Inn,Agra,Suite,6314
+7,Grand Palace,Pune,Standard,1690
+7,Grand Palace,Pune,Deluxe,3107
+7,Grand Palace,Pune,Suite,6855
+7,Grand Palace,Vadodara,Standard,1667
+7,Grand Palace,Vadodara,Deluxe,3128
+7,Grand Palace,Vadodara,Suite,6457
+4,Urban Retreat,Pune,Standard,2866
+4,Urban Retreat,Pune,Deluxe,4328
+4,Urban Retreat,Pune,Suite,5693
+2,Ocean View Resort,Lucknow,Standard,2917
+2,Ocean View Resort,Lucknow,Deluxe,4551
+2,Ocean View Resort,Lucknow,Suite,6750
+6,Comfort Inn,Goa,Standard,1525
+6,Comfort Inn,Goa,Deluxe,3820
+6,Comfort Inn,Goa,Suite,7781
+7,Grand Palace,Chennai,Standard,1958
+7,Grand Palace,Chennai,Deluxe,3559
+7,Grand Palace,Chennai,Suite,7145
+9,Serene Suites,Agra,Standard,1873
+9,Serene Suites,Agra,Deluxe,3782
+9,Serene Suites,Agra,Suite,7449
+6,Comfort Inn,Vadodara,Standard,2680
+6,Comfort Inn,Vadodara,Deluxe,4955
+6,Comfort Inn,Vadodara,Suite,6642
+1,Hotel Sunshine,Delhi,Standard,1800
+1,Hotel Sunshine,Delhi,Deluxe,3296
+1,Hotel Sunshine,Delhi,Suite,7884
+4,Urban Retreat,Agra,Standard,1929
+4,Urban Retreat,Agra,Deluxe,4640
+4,Urban Retreat,Agra,Suite,6438
+2,Ocean View Resort,Kolkata,Standard,1615
+2,Ocean View Resort,Kolkata,Deluxe,4156
+2,Ocean View Resort,Kolkata,Suite,5513
+3,Royal Stay,Agra,Standard,2158
+3,Royal Stay,Agra,Deluxe,4172
+3,Royal Stay,Agra,Suite,6018
+2,Ocean View Resort,Hyderabad,Standard,2223
+2,Ocean View Resort,Hyderabad,Deluxe,3231
+2,Ocean View Resort,Hyderabad,Suite,7056
+3,Royal Stay,Bengaluru,Standard,2542
+3,Royal Stay,Bengaluru,Deluxe,4858
+3,Royal Stay,Bengaluru,Suite,5750
+6,Comfort Inn,Hyderabad,Standard,1801
+6,Comfort Inn,Hyderabad,Deluxe,4378
+6,Comfort Inn,Hyderabad,Suite,5558
+1,Hotel Sunshine,Bengaluru,Standard,2203
+1,Hotel Sunshine,Bengaluru,Deluxe,3729
+1,Hotel Sunshine,Bengaluru,Suite,7317
+8,City Center Hotel,Jaipur,Standard,1674
+8,City Center Hotel,Jaipur,Deluxe,3796
+8,City Center Hotel,Jaipur,Suite,6047
+9,Serene Suites,Agra,Standard,2537
+9,Serene Suites,Agra,Deluxe,3524
+9,Serene Suites,Agra,Suite,7507
+8,City Center Hotel,Bengaluru,Standard,2742
+8,City Center Hotel,Bengaluru,Deluxe,3927
+8,City Center Hotel,Bengaluru,Suite,7865
+8,City Center Hotel,Goa,Standard,1822
+8,City Center Hotel,Goa,Deluxe,4050
+8,City Center Hotel,Goa,Suite,7044
+3,Royal Stay,Delhi,Standard,2420
+3,Royal Stay,Delhi,Deluxe,3921
+3,Royal Stay,Delhi,Suite,5706
+8,City Center Hotel,Goa,Standard,1988
+8,City Center Hotel,Goa,Deluxe,4516
+8,City Center Hotel,Goa,Suite,6951
+4,Urban Retreat,Hyderabad,Standard,1614
+4,Urban Retreat,Hyderabad,Deluxe,4144
+4,Urban Retreat,Hyderabad,Suite,7220
+1,Hotel Sunshine,Goa,Standard,2866
+1,Hotel Sunshine,Goa,Deluxe,3158
+1,Hotel Sunshine,Goa,Suite,5132
+2,Ocean View Resort,Hyderabad,Standard,2774
+2,Ocean View Resort,Hyderabad,Deluxe,4200
+2,Ocean View Resort,Hyderabad,Suite,5973
+5,Mountain Retreat,Agra,Standard,2355
+5,Mountain Retreat,Agra,Deluxe,3229
+5,Mountain Retreat,Agra,Suite,7423
+1,Hotel Sunshine,Agra,Standard,2772
+1,Hotel Sunshine,Agra,Deluxe,3264
+1,Hotel Sunshine,Agra,Suite,5871
+2,Ocean View Resort,Vadodara,Standard,2196
+2,Ocean View Resort,Vadodara,Deluxe,3730
+2,Ocean View Resort,Vadodara,Suite,5904
+8,City Center Hotel,Vadodara,Standard,2266
+8,City Center Hotel,Vadodara,Deluxe,3422
+8,City Center Hotel,Vadodara,Suite,6088
+9,Serene Suites,Hyderabad,Standard,2069
+9,Serene Suites,Hyderabad,Deluxe,4034
+9,Serene Suites,Hyderabad,Suite,6978
+7,Grand Palace,Delhi,Standard,2511
+7,Grand Palace,Delhi,Deluxe,3643
+7,Grand Palace,Delhi,Suite,5762
+4,Urban Retreat,Delhi,Standard,2673
+4,Urban Retreat,Delhi,Deluxe,3903
+4,Urban Retreat,Delhi,Suite,7644
+8,City Center Hotel,Bengaluru,Standard,1657
+8,City Center Hotel,Bengaluru,Deluxe,4678
+8,City Center Hotel,Bengaluru,Suite,5408
+1,Hotel Sunshine,Vadodara,Standard,2932
+1,Hotel Sunshine,Vadodara,Deluxe,4916
+1,Hotel Sunshine,Vadodara,Suite,7752
+2,Ocean View Resort,Agra,Standard,2611
+2,Ocean View Resort,Agra,Deluxe,4401
+2,Ocean View Resort,Agra,Suite,5263
+9,Serene Suites,Goa,Standard,1879
+9,Serene Suites,Goa,Deluxe,3696
+9,Serene Suites,Goa,Suite,5835
+1,Hotel Sunshine,Kolkata,Standard,2080
+1,Hotel Sunshine,Kolkata,Deluxe,3608
+1,Hotel Sunshine,Kolkata,Suite,5131
+2,Ocean View Resort,Bengaluru,Standard,2462
+2,Ocean View Resort,Bengaluru,Deluxe,4349
+2,Ocean View Resort,Bengaluru,Suite,5255
+1,Hotel Sunshine,Chennai,Standard,1585
+1,Hotel Sunshine,Chennai,Deluxe,3199
+1,Hotel Sunshine,Chennai,Suite,7406
+9,Serene Suites,Agra,Standard,2643
+9,Serene Suites,Agra,Deluxe,4387
+9,Serene Suites,Agra,Suite,6587
+5,Mountain Retreat,Goa,Standard,1946
+5,Mountain Retreat,Goa,Deluxe,4214
+5,Mountain Retreat,Goa,Suite,5066
+8,City Center Hotel,Goa,Standard,2815
+8,City Center Hotel,Goa,Deluxe,4427
+8,City Center Hotel,Goa,Suite,7503
+6,Comfort Inn,Goa,Standard,1975
+6,Comfort Inn,Goa,Deluxe,3489
+6,Comfort Inn,Goa,Suite,7170
+3,Royal Stay,Pune,Standard,1526
+3,Royal Stay,Pune,Deluxe,4551
+3,Royal Stay,Pune,Suite,7468
+2,Ocean View Resort,Agra,Standard,2846
+2,Ocean View Resort,Agra,Deluxe,4768
+2,Ocean View Resort,Agra,Suite,7860
+4,Urban Retreat,Vadodara,Standard,2821
+4,Urban Retreat,Vadodara,Deluxe,4476
+4,Urban Retreat,Vadodara,Suite,7837
+5,Mountain Retreat,Delhi,Standard,2100
+5,Mountain Retreat,Delhi,Deluxe,3177
+5,Mountain Retreat,Delhi,Suite,5650
+1,Hotel Sunshine,Lucknow,Standard,2730
+1,Hotel Sunshine,Lucknow,Deluxe,3687
+1,Hotel Sunshine,Lucknow,Suite,7967
+8,City Center Hotel,Agra,Standard,1596
+8,City Center Hotel,Agra,Deluxe,4232
+8,City Center Hotel,Agra,Suite,5603
+2,Ocean View Resort,Kolkata,Standard,2632
+2,Ocean View Resort,Kolkata,Deluxe,3957
+2,Ocean View Resort,Kolkata,Suite,5454
+4,Urban Retreat,Agra,Standard,1830
+4,Urban Retreat,Agra,Deluxe,3671
+4,Urban Retreat,Agra,Suite,6186
+4,Urban Retreat,Mumbai,Standard,1735
+4,Urban Retreat,Mumbai,Deluxe,3772
+4,Urban Retreat,Mumbai,Suite,7166
+6,Comfort Inn,Pune,Standard,2671
+6,Comfort Inn,Pune,Deluxe,4965
+6,Comfort Inn,Pune,Suite,5361
+6,Comfort Inn,Bengaluru,Standard,2876
+6,Comfort Inn,Bengaluru,Deluxe,4013
+6,Comfort Inn,Bengaluru,Suite,6002
+7,Grand Palace,Kolkata,Standard,2450
+7,Grand Palace,Kolkata,Deluxe,3566
+7,Grand Palace,Kolkata,Suite,6176
+7,Grand Palace,Chennai,Standard,2763
+7,Grand Palace,Chennai,Deluxe,3418
+7,Grand Palace,Chennai,Suite,5509
+9,Serene Suites,Goa,Standard,2496
+9,Serene Suites,Goa,Deluxe,3463
+9,Serene Suites,Goa,Suite,6297
+2,Ocean View Resort,Pune,Standard,2141
+2,Ocean View Resort,Pune,Deluxe,4452
+2,Ocean View Resort,Pune,Suite,7638
+5,Mountain Retreat,Kolkata,Standard,2372
+5,Mountain Retreat,Kolkata,Deluxe,3176
+5,Mountain Retreat,Kolkata,Suite,6305
+4,Urban Retreat,Bengaluru,Standard,1963
+4,Urban Retreat,Bengaluru,Deluxe,4829
+4,Urban Retreat,Bengaluru,Suite,5144
+4,Urban Retreat,Delhi,Standard,1903
+4,Urban Retreat,Delhi,Deluxe,3861
+4,Urban Retreat,Delhi,Suite,7164
+9,Serene Suites,Delhi,Standard,2707
+9,Serene Suites,Delhi,Deluxe,4964
+9,Serene Suites,Delhi,Suite,5629
+8,City Center Hotel,Jaipur,Standard,2969
+8,City Center Hotel,Jaipur,Deluxe,3307
+8,City Center Hotel,Jaipur,Suite,5674
+5,Mountain Retreat,Hyderabad,Standard,2700
+5,Mountain Retreat,Hyderabad,Deluxe,4151
+5,Mountain Retreat,Hyderabad,Suite,5118
+7,Grand Palace,Chennai,Standard,2926
+7,Grand Palace,Chennai,Deluxe,4963
+7,Grand Palace,Chennai,Suite,5817
+5,Mountain Retreat,Hyderabad,Standard,1653
+5,Mountain Retreat,Hyderabad,Deluxe,4896
+5,Mountain Retreat,Hyderabad,Suite,5677
+9,Serene Suites,Pune,Standard,2021
+9,Serene Suites,Pune,Deluxe,4679
+9,Serene Suites,Pune,Suite,5498
+4,Urban Retreat,Bengaluru,Standard,2520
+4,Urban Retreat,Bengaluru,Deluxe,4908
+4,Urban Retreat,Bengaluru,Suite,6972
+1,Hotel Sunshine,Agra,Standard,1853
+1,Hotel Sunshine,Agra,Deluxe,3481
+1,Hotel Sunshine,Agra,Suite,6478
+1,Hotel Sunshine,Agra,Standard,2415
+1,Hotel Sunshine,Agra,Deluxe,3629
+1,Hotel Sunshine,Agra,Suite,7735
+5,Mountain Retreat,Chennai,Standard,2178
+5,Mountain Retreat,Chennai,Deluxe,4782
+5,Mountain Retreat,Chennai,Suite,6775
+2,Ocean View Resort,Agra,Standard,2237
+2,Ocean View Resort,Agra,Deluxe,3596
+2,Ocean View Resort,Agra,Suite,7542
+4,Urban Retreat,Goa,Standard,1914
+4,Urban Retreat,Goa,Deluxe,4786
+4,Urban Retreat,Goa,Suite,6062
+6,Comfort Inn,Bengaluru,Standard,2480
+6,Comfort Inn,Bengaluru,Deluxe,4284
+6,Comfort Inn,Bengaluru,Suite,7655
+5,Mountain Retreat,Agra,Standard,2656
+5,Mountain Retreat,Agra,Deluxe,4828
+5,Mountain Retreat,Agra,Suite,6668
+3,Royal Stay,Jaipur,Standard,1688
+3,Royal Stay,Jaipur,Deluxe,3844
+3,Royal Stay,Jaipur,Suite,7220
+5,Mountain Retreat,Delhi,Standard,2777
+5,Mountain Retreat,Delhi,Deluxe,4007
+5,Mountain Retreat,Delhi,Suite,5264

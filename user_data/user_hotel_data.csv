@@ -1,0 +1,201 @@
+user_id,hotel_name,city,check_in_date,check_out_date,room_type,number_of_guests,price_per_night,total_price,booking_date,special_requests,loyalty_program_member,country
+1,Hotel Sunshine,Delhi,2023-07-01,2023-07-02,Deluxe,2,3296,6592,2023-06-20,Late check-in,No,India
+2,Urban Retreat,Chennai,2023-03-26,2023-03-31,Deluxe,1,1391,1391,2023-02-27,None,Yes,India
+1,Hotel Sunshine,Vadodara,2023-08-05,2023-08-08,Standard,2,2932,5864,2023-07-20,None,No,India
+2,Royal Stay,Vadodara,2023-02-27,2023-03-03,Standard,3,2177,6531,2023-02-25,None,Yes,India
+1,Hotel Sunshine,Hyderabad,2023-03-08,2023-03-11,Suite,1,2798,2798,2023-02-10,Extra bed,Yes,India
+2,Serene Suites,Chennai,2023-04-25,2023-04-26,Standard,4,1285,5140,2023-04-23,None,No,India
+1,Urban Retreat,Hyderabad,2023-10-17,2023-10-22,Standard,3,1614,4842,2023-10-11,None,No,India
+2,Royal Stay,Delhi,2023-10-26,2023-10-31,Suite,1,5706,5706,2023-10-17,None,Yes,India
+1,Hotel Sunshine,Bengaluru,2023-04-13,2023-04-17,Standard,2,2203,4406,2023-03-31,None,No,India
+2,Urban Retreat,Chennai,2023-07-08,2023-07-11,Suite,1,3176,3176,2023-06-12,None,Yes,India
+1,Comfort Inn,Vadodara,2023-12-16,2023-12-17,Suite,4,6642,26568,2023-11-27,Late check-in,No,India
+2,Hotel Sunshine,Bengaluru,2023-10-04,2023-10-07,Suite,3,7317,21951,2023-09-28,None,No,India
+1,Comfort Inn,Delhi,2023-06-17,2023-06-19,Deluxe,2,2698,5396,2023-06-05,None,No,India
+2,Serene Suites,Delhi,2023-07-13,2023-07-17,Suite,3,5629,16887,2023-07-04,Sea view,Yes,India
+1,Hotel Sunshine,Hyderabad,2023-06-30,2023-07-02,Deluxe,4,3777,15108,2023-06-01,None,No,India
+2,Serene Suites,Hyderabad,2023-09-29,2023-10-04,Standard,3,2069,6207,2023-09-12,None,No,India
+1,Urban Retreat,Vadodara,2023-07-21,2023-07-26,Suite,3,7837,23511,2023-06-22,Sea view,Yes,India
+2,Urban Retreat,Vadodara,2023-03-20,2023-03-23,Standard,4,2821,11284,2023-02-19,None,No,India
+1,Urban Retreat,Chennai,2023-03-15,2023-03-16,Suite,3,2087,6261,2023-02-21,Late check-in,Yes,India
+2,Hotel Sunshine,Bengaluru,2023-03-04,2023-03-08,Deluxe,4,3729,14916,2023-02-15,None,Yes,India
+1,Urban Retreat,Mumbai,2023-03-10,2023-03-14,Deluxe,2,3772,7544,2023-02-08,Sea view,No,India
+2,Royal Stay,Delhi,2023-02-01,2023-02-02,Standard,2,2420,4840,2023-01-17,Extra bed,Yes,India
+1,Comfort Inn,Bengaluru,2023-04-25,2023-04-27,Suite,1,7655,7655,2023-04-13,Extra bed,Yes,India
+2,Comfort Inn,Mumbai,2023-05-20,2023-05-23,Standard,2,2548,5096,2023-05-19,None,Yes,India
+1,Serene Suites,Delhi,2023-05-31,2023-06-05,Suite,1,5629,5629,2023-05-26,None,No,India
+2,Hotel Sunshine,Chennai,2023-08-06,2023-08-09,Standard,2,1585,3170,2023-08-04,Extra bed,No,India
+1,Royal Stay,Vadodara,2023-09-14,2023-09-17,Deluxe,4,3126,12504,2023-08-18,None,No,India
+2,Royal Stay,Vadodara,2023-12-01,2023-12-06,Suite,2,2429,4858,2023-12-01,None,No,India
+1,Serene Suites,Chennai,2023-07-03,2023-07-06,Deluxe,1,3225,3225,2023-06-14,None,No,India
+2,Serene Suites,Delhi,2023-12-02,2023-12-03,Standard,3,2707,8121,2023-11-30,None,No,India
+1,Urban Retreat,Kolkata,2023-09-29,2023-10-01,Deluxe,1,3074,3074,2023-09-28,None,Yes,India
+2,Serene Suites,Chennai,2023-09-20,2023-09-23,Standard,1,1114,1114,2023-08-22,None,Yes,India
+1,Serene Suites,Mumbai,2023-11-05,2023-11-10,Standard,2,1546,3092,2023-10-25,None,Yes,India
+2,Urban Retreat,Mumbai,2023-05-21,2023-05-22,Standard,2,1735,3470,2023-05-16,None,No,India
+1,Serene Suites,Hyderabad,2023-05-29,2023-06-02,Suite,3,6978,20934,2023-05-20,None,No,India
+2,Urban Retreat,Chennai,2023-05-07,2023-05-08,Standard,2,2211,4422,2023-04-08,None,No,India
+1,Comfort Inn,Mumbai,2023-01-16,2023-01-19,Suite,2,5395,10790,2022-12-24,Sea view,No,India
+2,Serene Suites,Hyderabad,2023-01-11,2023-01-13,Standard,4,2069,8276,2022-12-25,Extra bed,Yes,India
+1,Urban Retreat,Mumbai,2023-11-04,2023-11-06,Suite,2,7166,14332,2023-10-19,None,No,India
+2,Royal Stay,Mumbai,2023-12-10,2023-12-14,Deluxe,2,1756,3512,2023-11-17,None,Yes,India
+1,Serene Suites,Hyderabad,2023-03-12,2023-03-13,Suite,4,6978,27912,2023-02-24,Late check-in,No,India
+2,Serene Suites,Kolkata,2023-09-24,2023-09-27,Deluxe,1,3781,3781,2023-09-13,None,No,India
+1,Comfort Inn,Kolkata,2023-01-05,2023-01-07,Suite,4,5393,21572,2022-12-11,Sea view,Yes,India
+2,Serene Suites,Bengaluru,2023-11-12,2023-11-15,Standard,4,2795,11180,2023-11-08,None,No,India
+1,Royal Stay,Kolkata,2023-01-06,2023-01-10,Suite,2,2163,4326,2022-12-31,None,No,India
+2,Royal Stay,Bengaluru,2023-02-21,2023-02-23,Standard,3,2542,7626,2023-01-31,None,No,India
+1,Serene Suites,Mumbai,2023-04-22,2023-04-26,Suite,2,1819,3638,2023-04-06,None,Yes,India
+2,Royal Stay,Kolkata,2023-10-05,2023-10-08,Standard,4,3232,12928,2023-09-07,None,No,India
+1,Comfort Inn,Mumbai,2023-06-10,2023-06-13,Standard,4,2548,10192,2023-06-03,Sea view,Yes,India
+2,Hotel Sunshine,Bengaluru,2023-06-02,2023-06-03,Standard,3,2203,6609,2023-05-31,None,Yes,India
+1,Comfort Inn,Delhi,2023-07-02,2023-07-07,Deluxe,1,1731,1731,2023-06-16,Sea view,Yes,India
+2,Comfort Inn,Bengaluru,2023-04-29,2023-05-02,Standard,3,2480,7440,2023-04-19,None,Yes,India
+1,Serene Suites,Kolkata,2023-01-06,2023-01-08,Suite,1,3194,3194,2022-12-10,None,No,India
+2,Royal Stay,Kolkata,2023-06-17,2023-06-18,Deluxe,4,3767,15068,2023-05-28,None,No,India
+1,Comfort Inn,Hyderabad,2023-05-18,2023-05-21,Suite,4,5558,22232,2023-05-08,Extra bed,Yes,India
+2,Hotel Sunshine,Vadodara,2023-10-08,2023-10-13,Deluxe,1,4916,4916,2023-09-15,None,Yes,India
+1,Hotel Sunshine,Vadodara,2023-10-07,2023-10-11,Standard,3,2932,8796,2023-09-12,None,No,India
+2,Serene Suites,Bengaluru,2023-03-01,2023-03-02,Suite,2,5710,11420,2023-02-08,None,No,India
+1,Serene Suites,Hyderabad,2023-06-11,2023-06-13,Standard,3,2069,6207,2023-06-10,None,No,India
+2,Serene Suites,Kolkata,2023-11-13,2023-11-15,Deluxe,3,2101,6303,2023-11-04,Extra bed,Yes,India
+1,Royal Stay,Chennai,2023-12-23,2023-12-28,Suite,3,3499,10497,2023-12-12,None,No,India
+2,Hotel Sunshine,Hyderabad,2023-02-03,2023-02-04,Suite,3,2039,6117,2023-01-15,None,Yes,India
+1,Serene Suites,Hyderabad,2023-06-04,2023-06-05,Suite,3,6978,20934,2023-05-29,None,No,India
+2,Royal Stay,Kolkata,2023-05-19,2023-05-23,Standard,3,1183,3549,2023-05-18,Late check-in,No,India
+1,Serene Suites,Kolkata,2023-06-04,2023-06-05,Suite,3,1244,3732,2023-05-27,None,No,India
+2,Urban Retreat,Vadodara,2023-02-26,2023-03-01,Suite,3,7837,23511,2023-02-04,None,Yes,India
+1,Hotel Sunshine,Mumbai,2023-09-04,2023-09-07,Standard,1,2066,2066,2023-08-13,None,No,India
+2,Comfort Inn,Mumbai,2023-11-01,2023-11-05,Deluxe,3,4407,13221,2023-10-04,Late check-in,No,India
+1,Urban Retreat,Vadodara,2023-06-29,2023-07-04,Deluxe,4,4476,17904,2023-06-18,Extra bed,No,India
+2,Royal Stay,Chennai,2023-06-20,2023-06-24,Standard,2,1627,3254,2023-06-16,None,No,India
+1,Hotel Sunshine,Mumbai,2023-05-28,2023-06-01,Standard,4,2066,8264,2023-05-26,None,No,India
+2,Serene Suites,Kolkata,2023-02-13,2023-02-16,Standard,4,1717,6868,2023-01-20,Extra bed,Yes,India
+1,Serene Suites,Mumbai,2023-03-01,2023-03-03,Standard,4,3274,13096,2023-02-10,Sea view,Yes,India
+2,Serene Suites,Vadodara,2023-12-11,2023-12-14,Suite,4,1710,6840,2023-12-02,None,No,India
+1,Serene Suites,Vadodara,2023-06-26,2023-06-30,Standard,2,1185,2370,2023-06-17,None,Yes,India
+2,Royal Stay,Bengaluru,2023-09-21,2023-09-24,Standard,2,2542,5084,2023-09-01,None,No,India
+1,Urban Retreat,Chennai,2023-03-26,2023-03-30,Deluxe,1,1261,1261,2023-03-16,None,No,India
+2,Comfort Inn,Kolkata,2023-11-10,2023-11-13,Standard,4,2469,9876,2023-10-18,None,No,India
+1,Royal Stay,Mumbai,2023-08-06,2023-08-10,Suite,2,2964,5928,2023-07-07,None,Yes,India
+2,Hotel Sunshine,Hyderabad,2023-01-14,2023-01-18,Standard,1,2144,2144,2022-12-25,Sea view,No,India
+1,Serene Suites,Kolkata,2023-05-31,2023-06-05,Standard,2,2007,4014,2023-05-12,None,Yes,India
+2,Serene Suites,Bengaluru,2023-08-17,2023-08-22,Suite,2,5710,11420,2023-08-04,None,Yes,India
+1,Royal Stay,Bengaluru,2023-04-04,2023-04-06,Standard,1,2542,2542,2023-03-29,None,No,India
+2,Comfort Inn,Bengaluru,2023-01-11,2023-01-14,Deluxe,3,4284,12852,2022-12-12,Extra bed,No,India
+1,Royal Stay,Vadodara,2023-06-03,2023-06-06,Suite,2,1507,3014,2023-05-27,Late check-in,No,India
+2,Serene Suites,Chennai,2023-05-20,2023-05-22,Suite,1,3884,3884,2023-05-15,None,No,India
+1,Hotel Sunshine,Chennai,2023-12-08,2023-12-12,Deluxe,3,3199,9597,2023-11-28,None,No,India
+2,Serene Suites,Mumbai,2023-07-26,2023-07-30,Deluxe,1,2594,2594,2023-06-27,None,Yes,India
+1,Royal Stay,Vadodara,2023-07-07,2023-07-12,Deluxe,1,3337,3337,2023-06-18,None,Yes,India
+2,Hotel Sunshine,Kolkata,2023-11-03,2023-11-06,Deluxe,4,3608,14432,2023-10-27,None,No,India
+1,Comfort Inn,Mumbai,2023-02-22,2023-02-24,Standard,2,2548,5096,2023-02-15,Extra bed,No,India
+2,Urban Retreat,Chennai,2023-12-16,2023-12-18,Standard,4,3053,12212,2023-11-17,None,Yes,India
+1,Serene Suites,Vadodara,2023-03-18,2023-03-19,Standard,1,3170,3170,2023-02-25,None,No,India
+2,Royal Stay,Bengaluru,2023-09-04,2023-09-06,Deluxe,1,4858,4858,2023-08-05,None,No,India
+1,Urban Retreat,Hyderabad,2023-01-14,2023-01-18,Standard,1,1614,1614,2023-01-04,None,Yes,India
+2,Royal Stay,Mumbai,2023-08-28,2023-08-30,Suite,4,1418,5672,2023-08-22,None,Yes,India
+1,Hotel Sunshine,Chennai,2023-05-30,2023-06-03,Standard,1,1585,1585,2023-05-26,None,Yes,India
+2,Comfort Inn,Mumbai,2023-01-18,2023-01-19,Suite,1,5395,5395,2022-12-20,None,Yes,India
+1,Urban Retreat,Bengaluru,2023-09-19,2023-09-24,Suite,4,6972,27888,2023-08-28,None,Yes,India
+2,Serene Suites,Delhi,2023-06-03,2023-06-05,Standard,4,2707,10828,2023-05-04,None,No,India
+1,Comfort Inn,Kolkata,2023-10-12,2023-10-16,Standard,2,2469,4938,2023-09-25,Late check-in,Yes,India
+2,Serene Suites,Bengaluru,2023-06-06,2023-06-09,Suite,3,5710,17130,2023-06-02,None,Yes,India
+1,Urban Retreat,Bengaluru,2023-05-26,2023-05-28,Suite,4,6972,27888,2023-05-19,None,No,India
+2,Urban Retreat,Chennai,2023-02-14,2023-02-15,Suite,1,3735,3735,2023-02-02,None,No,India
+1,Urban Retreat,Chennai,2023-09-07,2023-09-09,Standard,1,2305,2305,2023-08-12,None,Yes,India
+2,Urban Retreat,Bengaluru,2023-10-12,2023-10-13,Standard,1,2520,2520,2023-09-16,Sea view,No,India
+1,Serene Suites,Delhi,2023-01-27,2023-01-31,Suite,1,5629,5629,2023-01-21,None,Yes,India
+2,Urban Retreat,Kolkata,2023-02-05,2023-02-09,Standard,4,2184,8736,2023-01-17,None,Yes,India
+1,Hotel Sunshine,Chennai,2023-10-28,2023-10-29,Suite,3,7406,22218,2023-10-24,Sea view,Yes,India
+2,Comfort Inn,Mumbai,2023-01-26,2023-01-28,Suite,4,5395,21580,2023-01-08,Late check-in,Yes,India
+1,Hotel Sunshine,Bengaluru,2023-03-04,2023-03-09,Suite,1,7317,7317,2023-02-17,None,Yes,India
+2,Urban Retreat,Chennai,2023-05-12,2023-05-13,Standard,2,2000,4000,2023-05-02,Late check-in,No,India
+1,Royal Stay,Chennai,2023-06-30,2023-07-05,Suite,3,2442,7326,2023-06-16,None,No,India
+2,Hotel Sunshine,Kolkata,2023-09-10,2023-09-13,Deluxe,1,3608,3608,2023-08-14,None,No,India
+1,Royal Stay,Mumbai,2023-08-04,2023-08-05,Suite,2,3561,7122,2023-07-21,None,No,India
+2,Comfort Inn,Mumbai,2023-09-07,2023-09-10,Standard,1,2548,2548,2023-08-27,None,Yes,India
+1,Urban Retreat,Hyderabad,2023-07-30,2023-07-31,Standard,4,1614,6456,2023-07-19,None,Yes,India
+2,Hotel Sunshine,Vadodara,2023-09-10,2023-09-12,Suite,2,7752,15504,2023-08-11,None,No,India
+1,Serene Suites,Delhi,2023-07-07,2023-07-08,Standard,3,2707,8121,2023-07-05,None,Yes,India
+2,Comfort Inn,Bengaluru,2023-12-01,2023-12-02,Suite,4,7655,30620,2023-11-18,None,No,India
+1,Serene Suites,Kolkata,2023-04-12,2023-04-15,Suite,2,2504,5008,2023-03-30,Extra bed,No,India
+2,Hotel Sunshine,Hyderabad,2023-07-21,2023-07-22,Standard,4,2147,8588,2023-07-07,None,No,India
+1,Serene Suites,Chennai,2023-02-22,2023-02-23,Deluxe,4,2295,9180,2023-02-13,None,No,India
+2,Serene Suites,Chennai,2023-01-06,2023-01-10,Deluxe,4,3935,15740,2022-12-20,Sea view,No,India
+1,Hotel Sunshine,Hyderabad,2023-01-10,2023-01-12,Standard,1,2472,2472,2022-12-25,None,No,India
+2,Serene Suites,Hyderabad,2023-02-16,2023-02-20,Deluxe,4,4034,16136,2023-02-12,Late check-in,No,India
+1,Urban Retreat,Delhi,2023-12-26,2023-12-27,Standard,3,1903,5709,2023-12-13,None,Yes,India
+2,Urban Retreat,Mumbai,2023-03-17,2023-03-20,Standard,1,1735,1735,2023-02-19,None,Yes,India
+1,Serene Suites,Kolkata,2023-03-17,2023-03-19,Deluxe,2,1164,2328,2023-03-12,None,No,India
+2,Royal Stay,Mumbai,2023-11-24,2023-11-28,Standard,3,2326,6978,2023-11-16,None,Yes,India
+1,Royal Stay,Bengaluru,2023-04-23,2023-04-25,Deluxe,3,4858,14574,2023-03-28,None,No,India
+2,Urban Retreat,Hyderabad,2023-01-26,2023-01-29,Suite,2,7220,14440,2023-01-03,Late check-in,Yes,India
+1,Urban Retreat,Hyderabad,2023-04-26,2023-04-29,Deluxe,3,4144,12432,2023-04-18,Late check-in,No,India
+2,Hotel Sunshine,Hyderabad,2023-08-21,2023-08-23,Deluxe,1,3175,3175,2023-08-20,None,No,India
+1,Urban Retreat,Bengaluru,2023-08-28,2023-09-02,Standard,2,2520,5040,2023-08-12,Late check-in,No,India
+2,Hotel Sunshine,Vadodara,2023-04-08,2023-04-12,Suite,1,7752,7752,2023-04-06,Late check-in,No,India
+1,Comfort Inn,Hyderabad,2023-07-23,2023-07-26,Deluxe,2,4378,8756,2023-06-24,None,No,India
+2,Hotel Sunshine,Mumbai,2023-03-13,2023-03-18,Standard,3,2066,6198,2023-03-13,None,No,India
+1,Comfort Inn,Bengaluru,2023-07-06,2023-07-07,Suite,2,7655,15310,2023-07-04,None,Yes,India
+2,Hotel Sunshine,Vadodara,2023-09-06,2023-09-09,Deluxe,4,4916,19664,2023-08-08,Late check-in,No,India
+1,Urban Retreat,Hyderabad,2023-06-06,2023-06-09,Standard,4,1614,6456,2023-05-17,None,No,India
+2,Comfort Inn,Bengaluru,2023-12-16,2023-12-17,Standard,4,2480,9920,2023-11-30,Sea view,Yes,India
+1,Hotel Sunshine,Kolkata,2023-10-12,2023-10-13,Standard,1,2080,2080,2023-10-04,None,Yes,India
+2,Royal Stay,Chennai,2023-01-23,2023-01-24,Suite,2,2462,4924,2023-01-17,Extra bed,No,India
+1,Hotel Sunshine,Bengaluru,2023-04-11,2023-04-15,Deluxe,3,3729,11187,2023-04-04,Extra bed,No,India
+2,Hotel Sunshine,Bengaluru,2023-11-23,2023-11-25,Suite,4,7317,29268,2023-11-08,None,Yes,India
+1,Royal Stay,Bengaluru,2023-01-01,2023-01-04,Deluxe,1,4858,4858,2022-12-04,None,Yes,India
+2,Serene Suites,Bengaluru,2023-02-21,2023-02-23,Suite,3,5710,17130,2023-02-12,None,Yes,India
+1,Serene Suites,Mumbai,2023-06-25,2023-06-27,Standard,4,3796,15184,2023-06-04,None,No,India
+2,Comfort Inn,Mumbai,2023-09-26,2023-10-01,Deluxe,4,4407,17628,2023-09-03,None,No,India
+1,Comfort Inn,Vadodara,2023-03-11,2023-03-12,Deluxe,3,4955,14865,2023-03-02,None,No,India
+2,Serene Suites,Hyderabad,2023-09-18,2023-09-19,Standard,3,2069,6207,2023-08-30,Sea view,Yes,India
+1,Serene Suites,Delhi,2023-01-05,2023-01-07,Suite,1,5629,5629,2022-12-06,None,Yes,India
+2,Hotel Sunshine,Hyderabad,2023-05-01,2023-05-04,Standard,4,3568,14272,2023-04-05,None,Yes,India
+1,Hotel Sunshine,Hyderabad,2023-10-28,2023-10-31,Suite,2,3143,6286,2023-10-08,None,No,India
+2,Royal Stay,Mumbai,2023-03-17,2023-03-19,Suite,3,2860,8580,2023-03-17,None,Yes,India
+1,Comfort Inn,Bengaluru,2023-07-21,2023-07-25,Suite,3,7655,22965,2023-07-06,Extra bed,Yes,India
+2,Urban Retreat,Delhi,2023-08-04,2023-08-06,Deluxe,1,3861,3861,2023-07-31,None,Yes,India
+1,Royal Stay,Kolkata,2023-01-02,2023-01-06,Suite,3,1878,5634,2022-12-30,None,Yes,India
+2,Hotel Sunshine,Mumbai,2023-04-04,2023-04-05,Deluxe,2,4444,8888,2023-03-29,None,Yes,India
+1,Serene Suites,Delhi,2023-01-01,2023-01-04,Suite,3,5629,16887,2023-01-01,None,Yes,India
+2,Royal Stay,Vadodara,2023-03-15,2023-03-17,Deluxe,1,2087,2087,2023-03-11,Extra bed,Yes,India
+1,Serene Suites,Chennai,2023-08-28,2023-09-02,Suite,1,3660,3660,2023-08-14,None,No,India
+2,Comfort Inn,Vadodara,2023-04-17,2023-04-18,Deluxe,4,4955,19820,2023-03-23,None,No,India
+1,Urban Retreat,Delhi,2023-10-06,2023-10-10,Deluxe,4,3861,15444,2023-10-04,None,Yes,India
+2,Hotel Sunshine,Bengaluru,2023-09-12,2023-09-14,Suite,3,7317,21951,2023-08-26,None,Yes,India
+1,Serene Suites,Mumbai,2023-04-10,2023-04-11,Standard,2,1132,2264,2023-03-14,None,Yes,India
+2,Hotel Sunshine,Bengaluru,2023-08-15,2023-08-20,Suite,4,7317,29268,2023-07-21,None,No,India
+1,Serene Suites,Kolkata,2023-01-20,2023-01-24,Suite,4,2398,9592,2023-01-20,None,Yes,India
+2,Hotel Sunshine,Bengaluru,2023-08-29,2023-09-01,Standard,3,2203,6609,2023-08-25,None,Yes,India
+1,Comfort Inn,Vadodara,2023-03-16,2023-03-21,Suite,3,6642,19926,2023-03-13,Sea view,Yes,India
+2,Comfort Inn,Chennai,2023-09-25,2023-09-30,Standard,4,3107,12428,2023-09-14,None,No,India
+1,Urban Retreat,Mumbai,2023-01-04,2023-01-05,Suite,3,7166,21498,2022-12-06,None,No,India
+2,Serene Suites,Hyderabad,2023-11-23,2023-11-28,Suite,1,6978,6978,2023-10-31,None,No,India
+1,Hotel Sunshine,Delhi,2023-08-21,2023-08-23,Suite,1,7884,7884,2023-08-17,None,Yes,India
+2,Royal Stay,Kolkata,2023-12-15,2023-12-19,Suite,2,2937,5874,2023-12-02,Late check-in,No,India
+1,Royal Stay,Vadodara,2023-10-15,2023-10-17,Suite,2,957,1914,2023-09-18,Sea view,Yes,India
+2,Urban Retreat,Mumbai,2023-03-01,2023-03-06,Standard,1,1735,1735,2023-02-25,None,Yes,India
+1,Royal Stay,Hyderabad,2023-03-28,2023-04-02,Deluxe,3,2425,7275,2023-03-08,None,Yes,India
+2,Comfort Inn,Hyderabad,2023-08-21,2023-08-22,Standard,3,1801,5403,2023-08-15,Extra bed,No,India
+1,Urban Retreat,Delhi,2023-01-21,2023-01-24,Deluxe,4,3861,15444,2023-01-18,Extra bed,No,India
+2,Royal Stay,Vadodara,2023-01-05,2023-01-09,Suite,2,2982,5964,2022-12-22,Late check-in,No,India
+1,Royal Stay,Vadodara,2023-10-17,2023-10-18,Suite,2,3616,7232,2023-10-10,Sea view,No,India
+2,Royal Stay,Delhi,2023-08-17,2023-08-19,Deluxe,2,3921,7842,2023-08-04,None,No,India
+1,Urban Retreat,Kolkata,2023-04-09,2023-04-12,Suite,3,5746,17238,2023-03-21,Extra bed,No,India
+2,Serene Suites,Bengaluru,2023-02-25,2023-02-27,Deluxe,1,3169,3169,2023-02-17,None,Yes,India
+1,Serene Suites,Mumbai,2023-08-26,2023-08-30,Suite,3,1703,5109,2023-08-22,None,Yes,India
+2,Royal Stay,Hyderabad,2023-09-15,2023-09-18,Standard,4,3722,14888,2023-08-19,Extra bed,No,India
+1,Urban Retreat,Kolkata,2023-07-10,2023-07-14,Suite,4,5746,22984,2023-06-13,None,No,India
+2,Urban Retreat,Mumbai,2023-02-09,2023-02-12,Standard,2,1735,3470,2023-02-03,None,Yes,India
+1,Comfort Inn,Kolkata,2023-07-29,2023-08-02,Deluxe,4,4871,19484,2023-07-11,None,Yes,India
+2,Comfort Inn,Hyderabad,2023-04-25,2023-04-26,Suite,2,5558,11116,2023-04-15,None,Yes,India
+1,Urban Retreat,Kolkata,2023-01-21,2023-01-22,Suite,1,5746,5746,2022-12-25,None,No,India
+2,Comfort Inn,Chennai,2023-11-17,2023-11-20,Suite,2,1774,3548,2023-11-10,None,Yes,India
+1,Royal Stay,Vadodara,2023-10-31,2023-11-03,Deluxe,1,3347,3347,2023-10-28,Extra bed,No,India
+2,Hotel Sunshine,Chennai,2023-08-29,2023-09-02,Suite,4,7406,29624,2023-08-12,None,No,India
+1,Comfort Inn,Kolkata,2023-11-03,2023-11-04,Suite,4,5393,21572,2023-10-08,None,Yes,India
+2,Comfort Inn,Bengaluru,2023-05-09,2023-05-12,Standard,1,2480,2480,2023-04-11,Late check-in,No,India
+1,Royal Stay,Vadodara,2023-05-01,2023-05-05,Standard,1,1333,1333,2023-04-12,None,Yes,India
+2,Urban Retreat,Chennai,2023-07-21,2023-07-26,Deluxe,3,1385,4155,2023-07-13,Extra bed,No,India

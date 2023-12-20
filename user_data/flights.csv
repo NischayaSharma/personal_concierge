@@ -1,0 +1,301 @@
+source,destination,airline,class,price
+Bengaluru,Chennai,AirAsia India,Economy,6266
+Bengaluru,Chennai,AirAsia India,Business,16373
+Bengaluru,Chennai,AirAsia India,First Class,34088
+Hyderabad,Kolkata,Alliance Air,Economy,8449
+Hyderabad,Kolkata,Alliance Air,Business,19746
+Hyderabad,Kolkata,Alliance Air,First Class,33645
+Vadodara,Bengaluru,IndiGo,Economy,6280
+Vadodara,Bengaluru,IndiGo,Business,18051
+Vadodara,Bengaluru,IndiGo,First Class,31440
+Agra,Vadodara,Kingfisher,Economy,8436
+Agra,Vadodara,Kingfisher,Business,18758
+Agra,Vadodara,Kingfisher,First Class,27681
+Vadodara,Agra,SpiceJet,Economy,7613
+Vadodara,Agra,SpiceJet,Business,12958
+Vadodara,Agra,SpiceJet,First Class,28839
+Mumbai,Bengaluru,Vistara,Economy,5799
+Mumbai,Bengaluru,Vistara,Business,12815
+Mumbai,Bengaluru,Vistara,First Class,32749
+Bengaluru,Lucknow,Alliance Air,Economy,8485
+Bengaluru,Lucknow,Alliance Air,Business,14829
+Bengaluru,Lucknow,Alliance Air,First Class,32498
+Delhi,Chennai,Alliance Air,Economy,6896
+Delhi,Chennai,Alliance Air,Business,19583
+Delhi,Chennai,Alliance Air,First Class,26162
+Bengaluru,Jaipur,SpiceJet,Economy,6448
+Bengaluru,Jaipur,SpiceJet,Business,19030
+Bengaluru,Jaipur,SpiceJet,First Class,27179
+Goa,Agra,SpiceJet,Economy,6743
+Goa,Agra,SpiceJet,Business,11839
+Goa,Agra,SpiceJet,First Class,27071
+Kolkata,Vadodara,IndiGo,Economy,5235
+Kolkata,Vadodara,IndiGo,Business,12632
+Kolkata,Vadodara,IndiGo,First Class,29473
+Bengaluru,Kolkata,AirAsia India,Economy,7336
+Bengaluru,Kolkata,AirAsia India,Business,17019
+Bengaluru,Kolkata,AirAsia India,First Class,30873
+Hyderabad,Agra,IndiGo,Economy,5403
+Hyderabad,Agra,IndiGo,Business,15212
+Hyderabad,Agra,IndiGo,First Class,30144
+Mumbai,Jaipur,Jet Airways,Economy,9784
+Mumbai,Jaipur,Jet Airways,Business,16989
+Mumbai,Jaipur,Jet Airways,First Class,25828
+Lucknow,Chennai,IndiGo,Economy,6526
+Lucknow,Chennai,IndiGo,Business,12795
+Lucknow,Chennai,IndiGo,First Class,35348
+Goa,Mumbai,Vistara,Economy,6421
+Goa,Mumbai,Vistara,Business,18562
+Goa,Mumbai,Vistara,First Class,35243
+Hyderabad,Pune,Air India,Economy,8314
+Hyderabad,Pune,Air India,Business,13203
+Hyderabad,Pune,Air India,First Class,30935
+Pune,Chennai,IndiGo,Economy,5263
+Pune,Chennai,IndiGo,Business,19104
+Pune,Chennai,IndiGo,First Class,26174
+Bengaluru,Agra,Kingfisher,Economy,8663
+Bengaluru,Agra,Kingfisher,Business,18749
+Bengaluru,Agra,Kingfisher,First Class,31877
+Bengaluru,Jaipur,Air India,Economy,8089
+Bengaluru,Jaipur,Air India,Business,12178
+Bengaluru,Jaipur,Air India,First Class,26921
+Chennai,Lucknow,Air India,Economy,7239
+Chennai,Lucknow,Air India,Business,10214
+Chennai,Lucknow,Air India,First Class,32141
+Goa,Bengaluru,Jet Airways,Economy,7209
+Goa,Bengaluru,Jet Airways,Business,18516
+Goa,Bengaluru,Jet Airways,First Class,27070
+Bengaluru,Jaipur,Alliance Air,Economy,9508
+Bengaluru,Jaipur,Alliance Air,Business,18716
+Bengaluru,Jaipur,Alliance Air,First Class,28408
+Goa,Bengaluru,GoAir,Economy,6983
+Goa,Bengaluru,GoAir,Business,13952
+Goa,Bengaluru,GoAir,First Class,22707
+Goa,Chennai,Air India,Economy,8461
+Goa,Chennai,Air India,Business,17607
+Goa,Chennai,Air India,First Class,26801
+Hyderabad,Vadodara,AirAsia India,Economy,8639
+Hyderabad,Vadodara,AirAsia India,Business,11269
+Hyderabad,Vadodara,AirAsia India,First Class,26606
+Pune,Hyderabad,SpiceJet,Economy,6669
+Pune,Hyderabad,SpiceJet,Business,19384
+Pune,Hyderabad,SpiceJet,First Class,34410
+Goa,Mumbai,Jet Airways,Economy,7233
+Goa,Mumbai,Jet Airways,Business,16685
+Goa,Mumbai,Jet Airways,First Class,21286
+Agra,Mumbai,AirAsia India,Economy,8022
+Agra,Mumbai,AirAsia India,Business,17486
+Agra,Mumbai,AirAsia India,First Class,32965
+Delhi,Goa,Air India,Economy,7355
+Delhi,Goa,Air India,Business,11262
+Delhi,Goa,Air India,First Class,28418
+Bengaluru,Lucknow,GoAir,Economy,6732
+Bengaluru,Lucknow,GoAir,Business,19360
+Bengaluru,Lucknow,GoAir,First Class,20751
+Kolkata,Vadodara,GoAir,Economy,8460
+Kolkata,Vadodara,GoAir,Business,19779
+Kolkata,Vadodara,GoAir,First Class,23122
+Bengaluru,Agra,GoAir,Economy,5905
+Bengaluru,Agra,GoAir,Business,16455
+Bengaluru,Agra,GoAir,First Class,38666
+Lucknow,Jaipur,Kingfisher,Economy,8628
+Lucknow,Jaipur,Kingfisher,Business,15815
+Lucknow,Jaipur,Kingfisher,First Class,24602
+Pune,Jaipur,Jet Airways,Economy,6792
+Pune,Jaipur,Jet Airways,Business,14451
+Pune,Jaipur,Jet Airways,First Class,21709
+Lucknow,Chennai,Vistara,Economy,6212
+Lucknow,Chennai,Vistara,Business,10739
+Lucknow,Chennai,Vistara,First Class,26454
+Lucknow,Pune,GoAir,Economy,7081
+Lucknow,Pune,GoAir,Business,16348
+Lucknow,Pune,GoAir,First Class,22041
+Mumbai,Agra,IndiGo,Economy,7013
+Mumbai,Agra,IndiGo,Business,18444
+Mumbai,Agra,IndiGo,First Class,35237
+Hyderabad,Vadodara,GoAir,Economy,6594
+Hyderabad,Vadodara,GoAir,Business,16371
+Hyderabad,Vadodara,GoAir,First Class,20691
+Delhi,Bengaluru,SpiceJet,Economy,9760
+Delhi,Bengaluru,SpiceJet,Business,15858
+Delhi,Bengaluru,SpiceJet,First Class,24020
+Goa,Agra,AirAsia India,Economy,5736
+Goa,Agra,AirAsia India,Business,18177
+Goa,Agra,AirAsia India,First Class,31908
+Mumbai,Bengaluru,Jet Airways,Economy,9218
+Mumbai,Bengaluru,Jet Airways,Business,18805
+Mumbai,Bengaluru,Jet Airways,First Class,23872
+Bengaluru,Agra,SpiceJet,Economy,9894
+Bengaluru,Agra,SpiceJet,Business,13474
+Bengaluru,Agra,SpiceJet,First Class,33159
+Kolkata,Hyderabad,Jet Airways,Economy,5993
+Kolkata,Hyderabad,Jet Airways,Business,13333
+Kolkata,Hyderabad,Jet Airways,First Class,34780
+Delhi,Agra,Kingfisher,Economy,5445
+Delhi,Agra,Kingfisher,Business,12937
+Delhi,Agra,Kingfisher,First Class,25031
+Jaipur,Kolkata,Kingfisher,Economy,8312
+Jaipur,Kolkata,Kingfisher,Business,16003
+Jaipur,Kolkata,Kingfisher,First Class,35166
+Chennai,Delhi,AirAsia India,Economy,9278
+Chennai,Delhi,AirAsia India,Business,19346
+Chennai,Delhi,AirAsia India,First Class,39326
+Goa,Agra,IndiGo,Economy,9630
+Goa,Agra,IndiGo,Business,10832
+Goa,Agra,IndiGo,First Class,29904
+Mumbai,Bengaluru,Vistara,Economy,9289
+Mumbai,Bengaluru,Vistara,Business,19445
+Mumbai,Bengaluru,Vistara,First Class,32273
+Jaipur,Kolkata,Vistara,Economy,8321
+Jaipur,Kolkata,Vistara,Business,19903
+Jaipur,Kolkata,Vistara,First Class,34177
+Agra,Goa,Air India,Economy,8738
+Agra,Goa,Air India,Business,17061
+Agra,Goa,Air India,First Class,24468
+Jaipur,Kolkata,Kingfisher,Economy,9258
+Jaipur,Kolkata,Kingfisher,Business,16656
+Jaipur,Kolkata,Kingfisher,First Class,36308
+Goa,Chennai,Air India,Economy,8225
+Goa,Chennai,Air India,Business,19007
+Goa,Chennai,Air India,First Class,37821
+Hyderabad,Bengaluru,Vistara,Economy,6926
+Hyderabad,Bengaluru,Vistara,Business,19615
+Hyderabad,Bengaluru,Vistara,First Class,33776
+Pune,Kolkata,Air India,Economy,8900
+Pune,Kolkata,Air India,Business,16885
+Pune,Kolkata,Air India,First Class,20770
+Chennai,Hyderabad,IndiGo,Economy,6208
+Chennai,Hyderabad,IndiGo,Business,10097
+Chennai,Hyderabad,IndiGo,First Class,25879
+Chennai,Agra,Air India,Economy,5318
+Chennai,Agra,Air India,Business,12689
+Chennai,Agra,Air India,First Class,39318
+Bengaluru,Lucknow,Air India,Economy,9916
+Bengaluru,Lucknow,Air India,Business,19998
+Bengaluru,Lucknow,Air India,First Class,37051
+Hyderabad,Chennai,Alliance Air,Economy,5649
+Hyderabad,Chennai,Alliance Air,Business,19963
+Hyderabad,Chennai,Alliance Air,First Class,21467
+Bengaluru,Delhi,Air India,Economy,7057
+Bengaluru,Delhi,Air India,Business,17812
+Bengaluru,Delhi,Air India,First Class,24777
+Mumbai,Goa,Jet Airways,Economy,6890
+Mumbai,Goa,Jet Airways,Business,13197
+Mumbai,Goa,Jet Airways,First Class,38597
+Kolkata,Mumbai,Alliance Air,Economy,7698
+Kolkata,Mumbai,Alliance Air,Business,15918
+Kolkata,Mumbai,Alliance Air,First Class,34002
+Kolkata,Mumbai,IndiGo,Economy,9614
+Kolkata,Mumbai,IndiGo,Business,14325
+Kolkata,Mumbai,IndiGo,First Class,22988
+Pune,Jaipur,GoAir,Economy,5964
+Pune,Jaipur,GoAir,Business,10301
+Pune,Jaipur,GoAir,First Class,30693
+Bengaluru,Kolkata,AirAsia India,Economy,8507
+Bengaluru,Kolkata,AirAsia India,Business,18284
+Bengaluru,Kolkata,AirAsia India,First Class,26767
+Goa,Bengaluru,AirAsia India,Economy,7645
+Goa,Bengaluru,AirAsia India,Business,17027
+Goa,Bengaluru,AirAsia India,First Class,39340
+Delhi,Agra,AirAsia India,Economy,7350
+Delhi,Agra,AirAsia India,Business,11955
+Delhi,Agra,AirAsia India,First Class,20833
+Jaipur,Kolkata,Kingfisher,Economy,7784
+Jaipur,Kolkata,Kingfisher,Business,14149
+Jaipur,Kolkata,Kingfisher,First Class,27876
+Kolkata,Delhi,SpiceJet,Economy,6171
+Kolkata,Delhi,SpiceJet,Business,16560
+Kolkata,Delhi,SpiceJet,First Class,38542
+Jaipur,Agra,IndiGo,Economy,9735
+Jaipur,Agra,IndiGo,Business,12177
+Jaipur,Agra,IndiGo,First Class,36079
+Delhi,Bengaluru,Kingfisher,Economy,9890
+Delhi,Bengaluru,Kingfisher,Business,12117
+Delhi,Bengaluru,Kingfisher,First Class,33336
+Vadodara,Lucknow,Vistara,Economy,9413
+Vadodara,Lucknow,Vistara,Business,14853
+Vadodara,Lucknow,Vistara,First Class,38126
+Lucknow,Goa,Air India,Economy,7059
+Lucknow,Goa,Air India,Business,16989
+Lucknow,Goa,Air India,First Class,26927
+Agra,Lucknow,Vistara,Economy,7876
+Agra,Lucknow,Vistara,Business,16868
+Agra,Lucknow,Vistara,First Class,29770
+Agra,Pune,Vistara,Economy,8389
+Agra,Pune,Vistara,Business,14320
+Agra,Pune,Vistara,First Class,32944
+Delhi,Chennai,Alliance Air,Economy,7451
+Delhi,Chennai,Alliance Air,Business,10249
+Delhi,Chennai,Alliance Air,First Class,38251
+Jaipur,Mumbai,GoAir,Economy,8516
+Jaipur,Mumbai,GoAir,Business,12542
+Jaipur,Mumbai,GoAir,First Class,23195
+Goa,Delhi,Jet Airways,Economy,8579
+Goa,Delhi,Jet Airways,Business,17094
+Goa,Delhi,Jet Airways,First Class,24752
+Chennai,Mumbai,Vistara,Economy,7057
+Chennai,Mumbai,Vistara,Business,10699
+Chennai,Mumbai,Vistara,First Class,32222
+Vadodara,Delhi,Jet Airways,Economy,7330
+Vadodara,Delhi,Jet Airways,Business,12765
+Vadodara,Delhi,Jet Airways,First Class,30658
+Lucknow,Mumbai,SpiceJet,Economy,6812
+Lucknow,Mumbai,SpiceJet,Business,12641
+Lucknow,Mumbai,SpiceJet,First Class,25529
+Kolkata,Pune,Air India,Economy,6265
+Kolkata,Pune,Air India,Business,13273
+Kolkata,Pune,Air India,First Class,25611
+Chennai,Kolkata,AirAsia India,Economy,7687
+Chennai,Kolkata,AirAsia India,Business,18123
+Chennai,Kolkata,AirAsia India,First Class,23527
+Bengaluru,Agra,AirAsia India,Economy,7755
+Bengaluru,Agra,AirAsia India,Business,14876
+Bengaluru,Agra,AirAsia India,First Class,23246
+Jaipur,Vadodara,Alliance Air,Economy,5740
+Jaipur,Vadodara,Alliance Air,Business,12601
+Jaipur,Vadodara,Alliance Air,First Class,26037
+Pune,Hyderabad,IndiGo,Economy,5758
+Pune,Hyderabad,IndiGo,Business,17921
+Pune,Hyderabad,IndiGo,First Class,30064
+Kolkata,Goa,Jet Airways,Economy,8257
+Kolkata,Goa,Jet Airways,Business,18421
+Kolkata,Goa,Jet Airways,First Class,37683
+Hyderabad,Bengaluru,Kingfisher,Economy,8999
+Hyderabad,Bengaluru,Kingfisher,Business,10437
+Hyderabad,Bengaluru,Kingfisher,First Class,21172
+Chennai,Hyderabad,AirAsia India,Economy,5867
+Chennai,Hyderabad,AirAsia India,Business,15172
+Chennai,Hyderabad,AirAsia India,First Class,29815
+Jaipur,Goa,Alliance Air,Economy,8159
+Jaipur,Goa,Alliance Air,Business,18542
+Jaipur,Goa,Alliance Air,First Class,39154
+Jaipur,Bengaluru,Jet Airways,Economy,6461
+Jaipur,Bengaluru,Jet Airways,Business,19019
+Jaipur,Bengaluru,Jet Airways,First Class,37792
+Chennai,Mumbai,AirAsia India,Economy,5671
+Chennai,Mumbai,AirAsia India,Business,18634
+Chennai,Mumbai,AirAsia India,First Class,34325
+Jaipur,Goa,Alliance Air,Economy,8437
+Jaipur,Goa,Alliance Air,Business,16866
+Jaipur,Goa,Alliance Air,First Class,32049
+Pune,Chennai,AirAsia India,Economy,7765
+Pune,Chennai,AirAsia India,Business,10853
+Pune,Chennai,AirAsia India,First Class,29675
+Pune,Vadodara,SpiceJet,Economy,7569
+Pune,Vadodara,SpiceJet,Business,14019
+Pune,Vadodara,SpiceJet,First Class,23060
+Goa,Jaipur,Alliance Air,Economy,9812
+Goa,Jaipur,Alliance Air,Business,13248
+Goa,Jaipur,Alliance Air,First Class,31915
+Goa,Pune,Alliance Air,Economy,8850
+Goa,Pune,Alliance Air,Business,19174
+Goa,Pune,Alliance Air,First Class,34687
+Jaipur,Lucknow,Vistara,Economy,9288
+Jaipur,Lucknow,Vistara,Business,17830
+Jaipur,Lucknow,Vistara,First Class,20274
+Kolkata,Bengaluru,SpiceJet,Economy,8935
+Kolkata,Bengaluru,SpiceJet,Business,17618
+Kolkata,Bengaluru,SpiceJet,First Class,27210
+Bengaluru,Chennai,Jet Airways,Economy,8258
+Bengaluru,Chennai,Jet Airways,Business,14352
+Bengaluru,Chennai,Jet Airways,First Class,34071
